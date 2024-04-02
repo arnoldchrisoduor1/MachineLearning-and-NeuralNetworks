@@ -1,3 +1,4 @@
-# Introduction to Machine Learning
+# Getting into Machine Learning and Neural Networks.
 
-This repository contains all of the most common machine learning algorithms.
+Reading on ML and Neural nets.
+Building systems that scale.
