@@ -13,3 +13,7 @@ target = digits.target
 
 # Viewing the first observation.
 print(features[0])
+
+# We can see more details by:
+
+print(digits.DESCR)
